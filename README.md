@@ -1,2 +1,3 @@
 # hello-wolrd
 This is a place to store ideas, resources and even share and discuss things with others
+This is a part of the tutorial, in order to get fimiliar with Github...
